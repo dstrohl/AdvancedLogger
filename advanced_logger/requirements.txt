@@ -1,0 +1,3 @@
+testfixtures
+sphinx
+sphinx-rtd-theme
